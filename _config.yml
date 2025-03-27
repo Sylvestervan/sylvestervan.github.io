@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "JINDONG FAN'S HOMEPAGE"
+title                    : "HOMEPAGE"
 title_separator          : "-"
-name                     : &name "SYLVESTERVAN"
+name                     : &name "Jindong Fan(Sylvester Van)"
 description              : &description "personal description"
 url                      : "https://sylvestervan.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -46,7 +46,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "Sylvestervan"
-  kaggle           : "sylvester_van"
+  kaggle           : "sylvestervan"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
