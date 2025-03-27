@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Jindong Fan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Dalian, PRC"
-  employer         : "Dalian Neusoft University of Information"
+  bio              : "Dedicating In My Field & Self"
+  location         : "Dalian, China"
+  employer         : "DNUI"
   uri              : # URL
   email            : "naringinstudio@outlook.com"
 
@@ -73,7 +73,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "dongdongmeow"
+  zhihu            : "you-pi-dai-xian-sheng"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
