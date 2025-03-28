@@ -12,6 +12,8 @@ $lighter-lemon              : #FFFAEE;
 $romantic-rose              : #985E64;
 $block-bg                   : #9D9F66;
 $text-brown                 : #957360;
+$code-text                  : #FAF0E6;
+$caption-line               : #CCC88D;
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
@@ -36,8 +38,8 @@ $sidebar-screen-min-width   : 1024px;
     --global-bg-color                   : #{$lighter-lemon};
     --global-border-color               : #{$lighter-gray};
     --global-code-background-color      : #{$block-bg};
-    --global-code-text-color            : #FAF0E6;
-    --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
+    --global-code-text-color            : #{$code-text};
+    --global-fig-caption-color          : mix(#{$caption-line},  #{$dark-gray}, 25%);
     --global-link-color                 : #2f7f93;
     --global-link-color-hover           : mix(#000, #2f7f93, 25%);
     --global-link-color-visited         : mix(#fff, #2f7f93, 25%);  
