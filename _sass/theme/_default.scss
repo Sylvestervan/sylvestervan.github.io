@@ -12,6 +12,7 @@ $lighter-lemon              : #FFFAEE;
 $romantic-rose              : #985E64;
 $block-bg                   : #9D9F66;
 $text-brown                 : #957360;
+$text-brown-li              : #9B897F;
 $code-text                  : #FAF0E6;
 $caption-line               : #CCC88D;
 
@@ -46,6 +47,6 @@ $sidebar-screen-min-width   : 1024px;
     --global-masthead-link-color        : #{$text-brown};
     --global-masthead-link-color-hover  : mix(#{$text-brown}, #{$gray}, 25%);
     --global-text-color                 : #{$text-brown};
-    --global-text-color-light           : #{$light-gray};
+    --global-text-color-light           : #{$text-brown-li};
     --global-thead-color                : #{$lighter-gray};
 }
