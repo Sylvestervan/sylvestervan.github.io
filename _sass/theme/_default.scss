@@ -14,7 +14,6 @@ $block-bg                   : #9D9F66;
 $text-brown                 : #957360;
 $text-brown-li              : #B7ADA6;
 $code-text                  : #FAF0E6;
-$caption-line               : #CCC88D;
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
@@ -37,7 +36,7 @@ $sidebar-screen-min-width   : 1024px;
 :root {
     --global-base-color                 : #{$gray};
     --global-bg-color                   : #{$lighter-lemon};
-    --global-border-color               : #{$caption-line};
+    --global-border-color               : #{$text-brown-li};
     --global-code-background-color      : #{$block-bg};
     --global-code-text-color            : #{$code-text};
     --global-fig-caption-color          : mix(#fff,  #{$gray}, 25%);
