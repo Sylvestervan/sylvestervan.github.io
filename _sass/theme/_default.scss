@@ -13,6 +13,7 @@ $romantic-rose              : #985E64;
 $block-bg                   : #9D9F66;
 $text-brown                 : #957360;
 $text-brown-li              : #B7ADA6;
+$text-brown-extra-light     : #d6cfca;
 $code-text                  : #FAF0E6;
 
 /* Color codes used for the site */
@@ -36,7 +37,7 @@ $sidebar-screen-min-width   : 1024px;
 :root {
     --global-base-color                 : #{$gray};
     --global-bg-color                   : #{$lighter-lemon};
-    --global-border-color               : #{$text-brown-li};
+    --global-border-color               : #{$text-brown-extra-light};
     --global-code-background-color      : #{$block-bg};
     --global-code-text-color            : #{$code-text};
     --global-fig-caption-color          : mix(#fff,  #{$gray}, 25%);
