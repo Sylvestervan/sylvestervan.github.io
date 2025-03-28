@@ -230,7 +230,7 @@ body:hover .visually-hidden button {
   .fa-github,
   .fa-github-alt,
   .fa-github-square {
-    color: $github-color;
+    color: var(--global-text-color);
   }
 
   .fa-google-plus,
@@ -244,7 +244,7 @@ body:hover .visually-hidden button {
 
   .fa-kaggle,
   .fa-kaggle-square {
-    color: $kaggle-color;
+    color: var(--global-text-color);
   }
 
   .fa-lastfm,
