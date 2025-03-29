@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. University of Chinese Academy of Sciences, 2028 (expected)
+* B.S. Liaoning Normal University, CST, 2026
+* V.S. Dalian Neusoft University of Information, Data Process Tech, 2023
 
-Work experience
+Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
