@@ -14,5 +14,5 @@ Education
 
 * Ph.D. Stockholm University, 2035 (expected)
 * M.S. University of Chinese Academy of Sciences, 2028 (expected)
-* B.S. Liaoning Normal University, Computer Science, 2026
+* B.S. Liaoning Normal University, CST, 2026
 * V.H. Dalian Neusoft University of Information, Data Process Tech, 2023
