@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* Ph.D. Stockholm University, 2035 (expected)
-* M.S. University of Chinese Academy of Sciences, 2028 (expected)
-* B.S. Liaoning Normal University, CST, 2026
-* V.H. Dalian Neusoft University of Information, Data Process Technology, 2023
+* PhD. Stockholm University, 2035 (expected)
+* M.A. University of Chinese Academy of Sciences, 2028 (expected)
+* B.A. Liaoning Normal University, Computer Science & Technology, 2026
+* VoH. Dalian Neusoft University of Information, Data Process Technology, 2023
